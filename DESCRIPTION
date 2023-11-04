@@ -4,7 +4,7 @@ Title: Data Package with biomass production data
 Version: 0.1.0
 Author: Koenraad Van Meerbeek
 Maintainer: The package maintainer <koenraad.vanmeerbeek@kuleuven.be>
-Description: Contains a dataset with standing biomass in temperate grasslands
+Description: Contains a dataset 'dat' with standing biomass in temperate grasslands
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
