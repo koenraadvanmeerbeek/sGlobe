@@ -1,0 +1,22 @@
+#' Biomass in grasslands
+#'
+#' Dataset with dry matter (DM) of standing biomass measured in 147 grassland plots in 10 sites.
+#' In the same plots, we also measured species richness (SR), loam content (Loam), soil pH (pH), soil phosphorous content (P), soil carbon content (C), cover (Cover) and height (Height) of the vegetation
+#'
+#'
+#' @format A dataframe with 147 rows and 10 variables:
+#' \describe{
+#'   \item{`Plot`}{chr name of the plot}
+#'   \item{`Site`}{chr Site name}
+#'   \item{`DM`}{num dry matter of standing biomass in g/m²}
+#'   \item{`SR`}{int species richness of the plot}
+#'   \item{`Loam`}{int percentage loam in the soil}
+#'   \item{`pH`}{num pH-KCl of the soil}
+#'   \item{`P`}{int phosphorous content of the soil}
+#'   \item{`C`}{num carbon content of the soil}
+#'   \item{`Cover`}{num cover of the vegetation in percentage}
+#'   \item{`Height`}{num height of the vegetation}
+#' }
+#' @source PhD Koenraad Van Meerbeek
+
+"dat"
