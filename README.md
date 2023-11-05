@@ -1,4 +1,4 @@
-#sGlobe package
+# sGlobe package
 
 Welcome to the sGlobe package. This package contains a dataset with biomass production data, collected in 147 temperate grasslands.
 
